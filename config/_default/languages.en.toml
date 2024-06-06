@@ -1,0 +1,18 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Home"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = ""
+
+[author]
+name = "Lorenzo Torelli"
+headline = "Game Developer"
+image = "profile_pic.png"
+bio = "This is my bio, what do you think?"
+links = [ { github = "https://github.com/GriMmzlyTM" } ]

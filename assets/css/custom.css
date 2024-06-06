@@ -1,0 +1,41 @@
+body {
+    /* max-width: 100% !important;
+    padding: 0 !important; */
+
+}
+
+/* @media screen and (min-width: 720p) {
+    main {
+
+    border-left: solid;
+    border-right: solid;
+    border-color: #020617;
+
+    /* padding: 6rem;
+    margin-left: 32rem;
+    margin-right: 32rem; */
+    }
+} */
+
+/* footer {
+    width: 100%;
+    background: #020617;
+} */
+
+/* .min-h-\[148px\] {
+    min-height : 50px !important;
+} */
+
+#menu-blur {
+    min-height: 50px;
+}
+
+.fixed {
+    background: #020617 !important;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.max-w-prose {
+    max-width: 80ch !important;
+}

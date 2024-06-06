@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unreal on Home</title>
+    <link>//localhost:1313/tags/unreal/</link>
+    <description>Recent content in Unreal on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Lorenzo Torelli</copyright>
+    <lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/unreal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dead By Daylight</title>
+      <link>//localhost:1313/professional-portfolio/dead-by-daylight/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/professional-portfolio/dead-by-daylight/</guid>
+      <description>Tools Programmer on Dead By Daylight</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/professional-portfolio/dead-by-daylight/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Trash Panda Mafia</title>
+      <link>//localhost:1313/personal-portfolio/trash-panda-mafia/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/personal-portfolio/trash-panda-mafia/</guid>
+      <description>Game jam project about summoning an army of raccoons</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/personal-portfolio/trash-panda-mafia/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Project Copycat</title>
+      <link>//localhost:1313/personal-portfolio/p-copycat/</link>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/personal-portfolio/p-copycat/</guid>
+      <description>an example to get you started</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/personal-portfolio/p-copycat/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+[[main]]
+name = "Blog"
+pageRef = "blog"
+identifier = "As2fCzmBfk"
+weight = 9999
+
+[[main]]
+name = "CV"
+pageRef = "cv"
+identifier = "Y5elzGu3G4"
+weight = 9999
+
+[[main]]
+name = "Tools & Libraries"
+pageRef = "tools-and-libraries"
+identifier = "uanhcZKkXx"
+weight = 9999
+
+[[footer]]
+none = "none"
