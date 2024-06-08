@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contextual Actions on Home</title>
+    <link>//localhost:1313/tags/contextual-actions/</link>
+    <description>Recent content in Contextual Actions on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Lorenzo Torelli</copyright>
+    <lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/contextual-actions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lil Context</title>
+      <link>//localhost:1313/tools-and-libraries/lil-context/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tools-and-libraries/lil-context/</guid>
+      <description>Unreal contextual actions for passing context to children and executing actions based on current contexts</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/tools-and-libraries/lil-context/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -3,6 +3,7 @@ title: "Project Copycat"
 date: 2024-01-14
 draft: false
 description: ""
+summary: "GAS powered game inspired by Diablo and Runescape about grinding levels"
 tags: ["Personal", "Unreal", "Gameplay Ability System"]
 type: "personal"
 ---

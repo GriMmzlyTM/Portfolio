@@ -7,7 +7,7 @@ tags: ["cv"]
 type: "cv"
 ---
 
-{{<button href="">}}
+{{<button href="LorenzoTorelliResume.pdf">}}
 Download PDF Version
 {{</button>}}  
 #

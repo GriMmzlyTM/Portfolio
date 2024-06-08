@@ -3,19 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/tools-and-libraries/hel-ecs/</loc>
-    <lastmod>2024-06-05T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tools-and-libraries/lil-context/</loc>
+    <lastmod>2024-06-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/tools-and-libraries/lil-satchel/</loc>
+    <lastmod>2024-06-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2024-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/tools-and-libraries/</loc>
+    <lastmod>2024-06-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/tools-and-libraries/hel-ecs/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -71,6 +83,12 @@
   <url>
     <loc>//localhost:1313/personal-portfolio/keyboard-warrior/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/personal-portfolio/alex/</loc>
+    <lastmod>2018-01-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

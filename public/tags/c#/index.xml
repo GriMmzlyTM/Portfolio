@@ -14,7 +14,7 @@
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/tools-and-libraries/hel-ecs/</guid>
-      <description>an example to get you started</description>
+      <description>C# Entity Component System implementation for integration with Unity and Monogame</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/tools-and-libraries/hel-ecs/featured.png" />
     </item>
     

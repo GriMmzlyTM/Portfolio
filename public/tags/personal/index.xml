@@ -24,7 +24,7 @@
       <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/personal-portfolio/p-copycat/</guid>
-      <description>an example to get you started</description>
+      <description>GAS powered game inspired by Diablo and Runescape about grinding levels</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/personal-portfolio/p-copycat/featured.jpg" />
     </item>
     
@@ -46,6 +46,16 @@
       <guid>//localhost:1313/personal-portfolio/keyboard-warrior/</guid>
       <description>Roguelike turn-based typing game</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/personal-portfolio/keyboard-warrior/featured.png" />
+    </item>
+    
+    <item>
+      <title>Alex</title>
+      <link>//localhost:1313/personal-portfolio/alex/</link>
+      <pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/personal-portfolio/alex/</guid>
+      <description>2D Platformer created to try out GMS2</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/personal-portfolio/alex/featured.png" />
     </item>
     
   </channel>

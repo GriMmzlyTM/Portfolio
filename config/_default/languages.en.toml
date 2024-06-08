@@ -15,4 +15,7 @@ name = "Lorenzo Torelli"
 headline = "Game Developer"
 image = "profile_pic.png"
 bio = "This is my bio, what do you think?"
-links = [ { github = "https://github.com/GriMmzlyTM" } ]
+links = [ 
+    { github = "https://github.com/GriMmzlyTM" },
+    { linkedin = "https://www.linkedin.com/in/lorenzotorelli/" } ]
+

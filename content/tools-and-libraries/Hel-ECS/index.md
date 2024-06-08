@@ -2,7 +2,7 @@
 title: "Hel ECS"
 date: 2024-06-05
 draft: false
-description: "a description"
+summary: "C# Entity Component System implementation for integration with Unity and Monogame"
 tags: ["C#", "Library"]
 type: "library"
 ---

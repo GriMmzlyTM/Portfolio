@@ -7,14 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Lorenzo Torelli</copyright>
-    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lil Context</title>
+      <link>//localhost:1313/tools-and-libraries/lil-context/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tools-and-libraries/lil-context/</guid>
+      <description>Unreal contextual actions for passing context to children and executing actions based on current contexts</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/tools-and-libraries/lil-context/featured.png" />
+    </item>
+    
+    <item>
+      <title>Lil Satchel</title>
+      <link>//localhost:1313/tools-and-libraries/lil-satchel/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tools-and-libraries/lil-satchel/</guid>
+      <description>GAS powered Item and Inventory system with support for Lil Context</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/tools-and-libraries/lil-satchel/featured.png" />
+    </item>
+    
     <item>
       <title>Hel ECS</title>
       <link>//localhost:1313/tools-and-libraries/hel-ecs/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/tools-and-libraries/hel-ecs/</guid>
-      <description>an example to get you started</description>
+      <description>C# Entity Component System implementation for integration with Unity and Monogame</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/tools-and-libraries/hel-ecs/featured.png" />
     </item>
     
@@ -64,7 +84,7 @@
       <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/personal-portfolio/p-copycat/</guid>
-      <description>an example to get you started</description>
+      <description>GAS powered game inspired by Diablo and Runescape about grinding levels</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/personal-portfolio/p-copycat/featured.jpg" />
     </item>
     
@@ -86,6 +106,16 @@
       <guid>//localhost:1313/personal-portfolio/keyboard-warrior/</guid>
       <description>Roguelike turn-based typing game</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/personal-portfolio/keyboard-warrior/featured.png" />
+    </item>
+    
+    <item>
+      <title>Alex</title>
+      <link>//localhost:1313/personal-portfolio/alex/</link>
+      <pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/personal-portfolio/alex/</guid>
+      <description>2D Platformer created to try out GMS2</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/personal-portfolio/alex/featured.png" />
     </item>
     
   </channel>
