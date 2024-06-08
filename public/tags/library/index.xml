@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Library on Home</title>
-    <link>//localhost:1313/tags/library/</link>
+    <link>http://localhost:1313/tags/library/</link>
     <description>Recent content in Library on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Lorenzo Torelli</copyright>
-    <lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/library/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/library/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lil Context</title>
-      <link>//localhost:1313/tools-and-libraries/lil-context/</link>
+      <link>http://localhost:1313/tools-and-libraries/lil-context/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tools-and-libraries/lil-context/</guid>
+      <guid>http://localhost:1313/tools-and-libraries/lil-context/</guid>
       <description>Unreal contextual actions for passing context to children and executing actions based on current contexts</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/tools-and-libraries/lil-context/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/tools-and-libraries/lil-context/featured.png" />
     </item>
     
     <item>
       <title>Lil Satchel</title>
-      <link>//localhost:1313/tools-and-libraries/lil-satchel/</link>
+      <link>http://localhost:1313/tools-and-libraries/lil-satchel/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tools-and-libraries/lil-satchel/</guid>
+      <guid>http://localhost:1313/tools-and-libraries/lil-satchel/</guid>
       <description>GAS powered Item and Inventory system with support for Lil Context</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/tools-and-libraries/lil-satchel/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/tools-and-libraries/lil-satchel/featured.png" />
     </item>
     
     <item>
       <title>Hel ECS</title>
-      <link>//localhost:1313/tools-and-libraries/hel-ecs/</link>
+      <link>http://localhost:1313/tools-and-libraries/hel-ecs/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tools-and-libraries/hel-ecs/</guid>
+      <guid>http://localhost:1313/tools-and-libraries/hel-ecs/</guid>
       <description>C# Entity Component System implementation for integration with Unity and Monogame</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/tools-and-libraries/hel-ecs/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/tools-and-libraries/hel-ecs/featured.png" />
     </item>
     
   </channel>

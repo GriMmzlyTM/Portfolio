@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roguelike on Home</title>
-    <link>//localhost:1313/tags/roguelike/</link>
+    <link>http://localhost:1313/tags/roguelike/</link>
     <description>Recent content in Roguelike on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Lorenzo Torelli</copyright>
-    <lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/roguelike/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/roguelike/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Keyboard Warriors</title>
-      <link>//localhost:1313/personal-portfolio/keyboard-warrior/</link>
+      <link>http://localhost:1313/personal-portfolio/keyboard-warrior/</link>
       <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/personal-portfolio/keyboard-warrior/</guid>
+      <guid>http://localhost:1313/personal-portfolio/keyboard-warrior/</guid>
       <description>Roguelike turn-based typing game</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/personal-portfolio/keyboard-warrior/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-portfolio/keyboard-warrior/featured.png" />
     </item>
     
   </channel>

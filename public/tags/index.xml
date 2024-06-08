@@ -2,208 +2,208 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Home</title>
-    <link>//localhost:1313/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Lorenzo Torelli</copyright>
-    <lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contextual Actions</title>
-      <link>//localhost:1313/tags/contextual-actions/</link>
+      <link>http://localhost:1313/tags/contextual-actions/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/contextual-actions/</guid>
+      <guid>http://localhost:1313/tags/contextual-actions/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gameplay Ability System</title>
-      <link>//localhost:1313/tags/gameplay-ability-system/</link>
+      <link>http://localhost:1313/tags/gameplay-ability-system/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/gameplay-ability-system/</guid>
+      <guid>http://localhost:1313/tags/gameplay-ability-system/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Item and Inventory</title>
-      <link>//localhost:1313/tags/item-and-inventory/</link>
+      <link>http://localhost:1313/tags/item-and-inventory/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/item-and-inventory/</guid>
+      <guid>http://localhost:1313/tags/item-and-inventory/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Library</title>
-      <link>//localhost:1313/tags/library/</link>
+      <link>http://localhost:1313/tags/library/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/library/</guid>
+      <guid>http://localhost:1313/tags/library/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Unreal</title>
-      <link>//localhost:1313/tags/unreal/</link>
+      <link>http://localhost:1313/tags/unreal/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/unreal/</guid>
+      <guid>http://localhost:1313/tags/unreal/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>C#</title>
-      <link>//localhost:1313/tags/c%23/</link>
+      <link>http://localhost:1313/tags/c%23/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/c%23/</guid>
+      <guid>http://localhost:1313/tags/c%23/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Behaviour</title>
-      <link>//localhost:1313/tags/behaviour/</link>
+      <link>http://localhost:1313/tags/behaviour/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/behaviour/</guid>
+      <guid>http://localhost:1313/tags/behaviour/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Cv</title>
-      <link>//localhost:1313/tags/cv/</link>
+      <link>http://localhost:1313/tags/cv/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/cv/</guid>
+      <guid>http://localhost:1313/tags/cv/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Engine</title>
-      <link>//localhost:1313/tags/engine/</link>
+      <link>http://localhost:1313/tags/engine/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/engine/</guid>
+      <guid>http://localhost:1313/tags/engine/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Horror</title>
-      <link>//localhost:1313/tags/horror/</link>
+      <link>http://localhost:1313/tags/horror/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/horror/</guid>
+      <guid>http://localhost:1313/tags/horror/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Professional</title>
-      <link>//localhost:1313/tags/professional/</link>
+      <link>http://localhost:1313/tags/professional/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/professional/</guid>
+      <guid>http://localhost:1313/tags/professional/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Unity</title>
-      <link>//localhost:1313/tags/unity/</link>
+      <link>http://localhost:1313/tags/unity/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/unity/</guid>
+      <guid>http://localhost:1313/tags/unity/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GameJam</title>
-      <link>//localhost:1313/tags/gamejam/</link>
+      <link>http://localhost:1313/tags/gamejam/</link>
       <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/gamejam/</guid>
+      <guid>http://localhost:1313/tags/gamejam/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Personal</title>
-      <link>//localhost:1313/tags/personal/</link>
+      <link>http://localhost:1313/tags/personal/</link>
       <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/personal/</guid>
+      <guid>http://localhost:1313/tags/personal/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>BulletHell</title>
-      <link>//localhost:1313/tags/bullethell/</link>
+      <link>http://localhost:1313/tags/bullethell/</link>
       <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/bullethell/</guid>
+      <guid>http://localhost:1313/tags/bullethell/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mobile</title>
-      <link>//localhost:1313/tags/mobile/</link>
+      <link>http://localhost:1313/tags/mobile/</link>
       <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/mobile/</guid>
+      <guid>http://localhost:1313/tags/mobile/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Roguelike</title>
-      <link>//localhost:1313/tags/roguelike/</link>
+      <link>http://localhost:1313/tags/roguelike/</link>
       <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/roguelike/</guid>
+      <guid>http://localhost:1313/tags/roguelike/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Typing Game</title>
-      <link>//localhost:1313/tags/typing-game/</link>
+      <link>http://localhost:1313/tags/typing-game/</link>
       <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/typing-game/</guid>
+      <guid>http://localhost:1313/tags/typing-game/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GMS2</title>
-      <link>//localhost:1313/tags/gms2/</link>
+      <link>http://localhost:1313/tags/gms2/</link>
       <pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/gms2/</guid>
+      <guid>http://localhost:1313/tags/gms2/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Platformer</title>
-      <link>//localhost:1313/tags/platformer/</link>
+      <link>http://localhost:1313/tags/platformer/</link>
       <pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/platformer/</guid>
+      <guid>http://localhost:1313/tags/platformer/</guid>
       <description></description>
       
     </item>

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Professional-Portfolios on Home</title>
-    <link>//localhost:1313/professional-portfolio/</link>
+    <link>http://localhost:1313/professional-portfolio/</link>
     <description>Recent content in Professional-Portfolios on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Lorenzo Torelli</copyright>
-    <lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/professional-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/professional-portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dead By Daylight</title>
-      <link>//localhost:1313/professional-portfolio/dead-by-daylight/</link>
+      <link>http://localhost:1313/professional-portfolio/dead-by-daylight/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/professional-portfolio/dead-by-daylight/</guid>
+      <guid>http://localhost:1313/professional-portfolio/dead-by-daylight/</guid>
       <description>Tools Programmer on Dead By Daylight</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/professional-portfolio/dead-by-daylight/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/professional-portfolio/dead-by-daylight/featured.jpg" />
     </item>
     
     <item>
       <title>Unity Licensing Server</title>
-      <link>//localhost:1313/professional-portfolio/unity/</link>
+      <link>http://localhost:1313/professional-portfolio/unity/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/professional-portfolio/unity/</guid>
+      <guid>http://localhost:1313/professional-portfolio/unity/</guid>
       <description>Software Developer in Enterprise Licensing</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/professional-portfolio/unity/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/professional-portfolio/unity/featured.jpg" />
     </item>
     
   </channel>
