@@ -13,7 +13,17 @@ Download PDF Version
 #
 
 ## Who am I?
-blah blah about me blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
+My programming journey starts in 2007, I had just discovered the joy of Ragnarok Online private servers when curiosity struck and I decided to learn how these servers worked.  
+Soon after, I discovered [eAthena](https://github.com/rathena/rathena/wiki/EAthena) and created [my own server](https://ratemyserver.net/index.php?page=detailedlistserver&serid=3779&url_sname=Darkangels-ro).  
+Although no one ever played my humble little server, it was an invaluable learning experience which led to a life-long hobby-turned-career.  
+
+Throughout my teenage years, I'd often spend time building websites (I tried coding my own Anime streaming site more than once!) or making games, Pokemon romhacks, or warcraft 3 maps. The games I made were fairly simple games, usually made in RPG Maker (Remember [RPG Maker 3?](https://www.youtube.com/watch?v=Yk8qdQYqhtI)), [Byond](https://www.byond.com) or similar game engines. 
+
+Over time, I graduated to more fully-fledged game engines such as [Unity](https://unity.com/), and game frameworks such as [Monogame]() (C#) and [Phaser](https://phaser.io/) (Javascript/Typescript), and I haven't stopped making games since!
+
+Since then, I've had the opportunity to work with incredibly talented developers and artists, and create games (Hobbiest and Professionally) that I'm truly proud of, some of which you can find on this portfolio!
+
+**Contact information**: Lorenzo@tortonmind.com
 
 
 ### Experience
