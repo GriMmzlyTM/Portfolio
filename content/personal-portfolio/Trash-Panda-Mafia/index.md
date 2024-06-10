@@ -9,6 +9,7 @@ type: "personal"
 ---
 
 {{<lead>}} MUST. EAT. TRASH. {{</lead>}}
+{{<button href="https://ldjam.com/events/ludum-dare/55/trash-panda-mafia" target="_blank">}}Try it out!{{</button>}}
 
 # The Project
 {{<youtubeLite id="-rd8wEKyuvE" label="Trash Panda Mafia demo">}}
@@ -44,3 +45,10 @@ My role for this project was 3Cs, as well as C++ Gameplay systems programming. I
 Trash Panda Mafia was my first game jam project working with a team. I learned a lot about task delegation and the quick iteration of game jam projects, as well as how to communicate clearly with the team to ensure a singular vision which adheres to our core pillars is maintained. 
 
 I also learned that grass is a good way to tank your performance. 
+
+## Screenshots
+{{<gallery>}}
+    <img src ="https://static.jam.host/raw/708/d5/z/63e9a.jpg" class="grid-w33" />
+    <img src ="https://static.jam.host/raw/708/d5/z/63ea1.jpg" class="grid-w33" />
+    <img src ="https://static.jam.host/raw/708/d5/z/63e9d.jpg" class="grid-w33" />
+{{</gallery>}}

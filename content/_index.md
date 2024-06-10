@@ -31,7 +31,7 @@ When inspiration strikes!
 {{<list limit=20 title=" " where="Type" value="personal">}}
 
 ## My libraries
-{{<lead>}}"A good programmer is a lazy programmer"{{</lead>}}  
+{{<lead>}}"A good programmer is a lazy programmer"{{</lead>}}
 I try to write reusable code whenever I can. Occasionally, it turns out to be something worthy of being its own library. Here are a few of them!
 
 {{<list limit=20 title=" " where="Type" value="library">}}
