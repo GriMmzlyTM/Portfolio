@@ -11,7 +11,7 @@ type: "personal"
 {{<lead>}} Pew pew to some music {{</lead>}}
 
 # The Project
-{{<youtubeLite id="mAHjG70WGqI " label="Astrojunkies demo">}}
+{{<youtubeLite id="mAHjG70WGqI" label="Astrojunkies demo">}}
 
 Astrojunkies is a 2D mobile bullet hell rhythm game I developed in 2018. 
 The idea behind the project was to allow players to generate levels using their own music through Youtube or an MP3. 
