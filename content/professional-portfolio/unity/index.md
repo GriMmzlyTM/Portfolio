@@ -19,10 +19,10 @@ Since its release in 2005, Unity has revolutionized small-team game development 
 I joined Unity in 2020 as a Software Developer working on the Enterprise Licensing team handling maintaining the Licensing Server and implementing features requested by our enterprise customers. 
 
 ## Tools used  
-**Game Engine**: Unity Engine
+**Game Engine**: Unity Engine  
 **Tools Development**: C# (.NET 5) and C++ (Unity)  
 
-**Communication**: Slack and Zoom
+**Communication**: Slack and Zoom  
 ## My part
 During my time as a Software Developer at Unity, the brunt of my work involved working on the Licensing Server to implement new features and license types, as well as provide support for 
 our Enterprise customers.  

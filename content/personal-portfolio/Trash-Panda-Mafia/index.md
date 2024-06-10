@@ -22,8 +22,8 @@ This game was a lot of fun to make. I handled gameplay and systems programming, 
 ## Tools used  
 **Game Engine**: Unreal Engine  
 **Language**: **C++** systems and core gameplay systems, **Blueprint** for flow execution 
-**VCS**: Perforce server running on a NAS
-**CI/CD**: Teamcity for automatic builds and deployments to Itch during the development process
+**VCS**: Perforce server running on a NAS  
+**CI/CD**: Teamcity for automatic builds and deployments to Itch during the development process  
 
 ## My part  
 For this project, we were a team of 5. We had a Blueprints Gameplay/UI programmer, 2 artists, an AI programmer, and me. 

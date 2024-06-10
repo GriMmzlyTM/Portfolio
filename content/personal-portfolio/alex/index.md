@@ -19,9 +19,9 @@ Alex is a 2D platformer I made in a couple days back in 2016 to try out [GMS2](h
 It's a short 1-2 minute long game about a square who fights and solves platforming puzzles using kind words. 
 
 ## Tools used  
-**Game Engine**: Game Maker Studio 2
-**2D art**: Aseprite 
-**Language**: GameMaker Language
+**Game Engine**: Game Maker Studio 2  
+**2D art**: Aseprite  
+**Language**: GameMaker Language  
 
 ## My part  
 This was a very quick project made with the sole purpose of trying out a new engine. 
