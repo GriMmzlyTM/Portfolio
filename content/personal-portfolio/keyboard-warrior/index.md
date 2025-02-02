@@ -29,7 +29,7 @@ As the sole developer on the project, my responsibilities included:
 - Developing the combat system
 - Level generation
 - UI/UX
-- 3Cs programming
+- 3C programming
 - Creating all the systems for questing, and roguelike mechanics
 - Building the typing system 
 
@@ -38,7 +38,7 @@ As the sole developer on the project, my responsibilities included:
 
 ### The original concept
 
-{{<youtubeLite id="mAHjG70WGqI" label="Initial concept">}}
+{{<youtubeLite id="6SE63pABT4A" label="Initial concept">}}
 The original concept for Keyboard Warriors was a 1v1 PVP match where wizards cast spells at each other. The idea was that this represents an "internet argument".
 
 ### Iterating on the concept

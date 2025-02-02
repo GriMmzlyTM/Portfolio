@@ -1,24 +1,28 @@
 ---
-title: "Project Copycat"
+title: "ARPG Template"
 date: 2024-01-14
 draft: false
 description: ""
-summary: "GAS powered game inspired by Diablo and Runescape about grinding levels"
+summary: "GAS powered game ARPG template"
 tags: ["Personal", "Unreal", "Gameplay Ability System"]
 type: "personal"
 ---
 
- an example to get you started
-# This is a heading
-{{<alert "youtube">}}
-This is an alert
-{{</alert>}}
+# The Project
+{{<youtubeLite id="x_jSc3lhYf" label="ARPG template - Skillable entities">}}
 
-{{<youtubeLite id="-rd8wEKyuvE" label="Trash Panda Mafia demo">}}
+This project is my playground, I use it for experimenting, R&D, and to develop new libraries. 
+Everything I work on in this project eventually makes its way to a plugin.
 
+The idea was originally to create a framework for a game that mixed Old School Runescape with Diablo 2. 
+The template uses the Gameplay Ability System for all of its gameplay effects and abilities. 
 
+The Context-based action system I designed allows every entity to have a context action hierarchy based on its available GameplayTags. 
 
-## Screenshots
-This is a paragraph with **bold** and *italic* text.
-Check more at [Blowfish documentation](https://blowfish.page/)
-undefined
+{{<youtubeLite id="BzLJsIIPjEk" label="ARPG template - Customizable Objects and combat">}}
+
+## Tools used  
+
+**Game Engine**: Unreal Engine 5  
+**VCS**: Perforce
+

@@ -18,14 +18,13 @@ Released in 2016 by **Behaviour Interactive**, Dead by Daylight is an asymmetric
 
 It's one of the top 25~ most played games on steam and releases a new Chapter every 3 months!
 
-I joined the project in 2022 as a Tools Developer, and have had the opportunity to be a part of some incredible releases, such as [D&D (Vecna)](https://store.steampowered.com/app/2958440/Dead_by_Daylight__Dungeons__Dragons/), [All Things Wicker (Original IP)](https://store.steampowered.com/app/2661270/Dead_by_Daylight__All_Things_Wicked_Chapter/), and many more! 
+I joined the project in 2022 as a Tools Developer before switching to the Systems Automation team in 2024 and have had the opportunity to be a part of some incredible releases, such as [D&D (Vecna)](https://store.steampowered.com/app/2958440/Dead_by_Daylight__Dungeons__Dragons/), [All Things Wicker (Original IP)](https://store.steampowered.com/app/2661270/Dead_by_Daylight__All_Things_Wicked_Chapter/), and many more! 
 
 ## Tools used  
 **Game Engine**: Unreal Engine  
-**Tools Development**: C# (Framework 4.7.2 && .NET 6-8) and C++ (UE editor tools)  
+**Tools Development**: C++ (UE editor tools)  
 **GPR/Perf tests**: Custom wrapper for [Gauntlet](https://dev.epicgames.com/documentation/en-us/unreal-engine/gauntlet-automation-framework-in-unreal-engine?application_version=5.3), tests written in Blueprints.
 
-**Communication**: Microsoft Teams  
 ## My part
 During my time as a Tools Developer on Dead By Daylight I've had numerous responsibilities:
 - Develop **in-editor** and **stand-alone** tooling to support the development of the game 

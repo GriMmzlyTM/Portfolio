@@ -31,12 +31,27 @@ Since then, I've had the opportunity to work with incredibly talented developers
 
 {{<timelineItem icon="behaviour_interactive_logo" header="Behaviour Interactive" badge="Game Development" subheader="SEPTEMBER 2022 - NOW">}}
     <div>
-    <h4>Tools Programmer</h4>
+     <h4>Systems Automation Programmer - Dead by Daylight</h4>
+        <ul>
+            <li>Investigated Gameplay, Systems and Engine issues to provide actionable solutions.</li>
+            <li>Communicated and collaborated closely with Gameplay, System, Animation, and Tech Art teams
+                to develop configurable Asset Validation rules, enabling non-technical users to generate rules
+                with ease.</li>
+            <li>Received Gameplay Programming training including 3C, Netcode and System design in Unreal
+                Engine for our real-time multiplayer live service title Dead by Daylight</li>
+            <li>Developed performance tests for third party platforms such as PS5, PS4, XSX, Xbox one, and
+                Switch</li>
+            <li>Designed Gameplay Room Tests in Blueprint and C++ for core gameplay systems</li>
+        </ul>
+    </div>
+    <h4>Tools Programmer - Dead by Daylight</h4>
         <ul>
             <li>Contributed to the test automation framework for detecting and fixing gameplay and system issues.</li>
             <li>Implemented support for gameplay automated tests running on PS5 & XSX</li>
             <li>Led the efforts to rewrite the submission tools for game developers to include proper pre-submission validation and a simpler deployment workflow.</li>
-            <li>Independently developed an Unreal Engine C++ cheat management tool to aid Dead by Daylight developers and QA in executing dev commands on separate platforms such as the Switch, reducing QA time</li>
+            <li>Developed an Unreal Engine Cheat Debug plugin in C++ using Slate to allow the remote
+                execution of Dead by Daylight cheats on third party platforms such as Playstation, Xbox, and
+                Switch.</li>
         </ul>
     </div>
 {{<list limit=3 title=" " where="Description" value="Behaviour">}}
