@@ -9,7 +9,7 @@ type: "personal"
 ---
 
 # The Project
-{{<youtubeLite id="x_jSc3lhYf" label="ARPG template - Skillable entities">}}
+{{<youtubeLite id="x_jSc3lhYfI" label="ARPG template - Skillable entities">}}
 
 This project is my playground, I use it for experimenting, R&D, and to develop new libraries. 
 Everything I work on in this project eventually makes its way to a plugin.
